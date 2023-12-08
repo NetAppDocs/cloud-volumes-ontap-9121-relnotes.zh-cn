@@ -704,9 +704,6 @@ HA对：18个、在一个节点中^1^</block>
   <block id="5313a9ac102424f63dd4d76f5280130e" category="sidebar">AWS 中的限制</block>
   <block id="1fff298355326f8c77bd77059a41c1a2" category="sidebar">Azure 中的限制</block>
   <block id="9a3a0c4b2afbb088e029484d4b34ba8b" category="sidebar">Google Cloud 中的限制</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文档</block>
-  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
-  <block id="dea335c9c6f638eb584011e253ad6ca1" category="sidebar">ONTAP 云</block>
   <block id="fd164e9cb2bc1ac5405cabfe451663f7" category="cell">2 PIB (需要多个许可证)</block>
   <block id="2dbd9a217bce4c7ba4ef467f57d6875c" category="paragraph">您可以为Cloud Volumes ONTAP BYOL单节点或HA对系统购买多个基于节点的许可证、以分配368 TiB以上的容量、最高可达到测试和支持的最大系统容量限制2 PIB。请注意，磁盘限制可能会阻止您单独使用磁盘来达到容量限制。您可以通过超出磁盘限制<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>。<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>。尽管Cloud Volumes ONTAP支持的最大测试和支持系统容量为2 PIB、但超过2 PIB限制将导致系统配置不受支持。</block>
   <block id="de9d6749570efc87e63811b5947fc250" category="paragraph">从Cloud Volumes ONTAP 9.12.1开始、AWS机密云和Top机密云区域支持购买多个基于节点的许可证。</block>
@@ -715,4 +712,8 @@ HA对：18个、在一个节点中^1^</block>
   <block id="e1ec06a3bd4a559443a88f1cb6736c26" category="inline-link-macro">了解如何在具有C4、M4和R4 EC2实例类型的AWS中升级</block>
   <block id="f295c0f45a8e22a4e4db9141680cce76" category="paragraph"><block ref="0fa12a627192b6cd097b12cd8088afe0" category="inline-link-macro-rx"></block>。
 <block ref="3f0e03f473a215943c109dc7746cdb60" category="inline-link-macro-rx"></block>。</block>
+  <block id="7b12e48cf0f58903b7c9f1ebc3c96974" category="section-title">9.12.1 P8 (2023年12月8日)</block>
+  <block id="fade75ceec599e990625d8fe892dc7d0" category="paragraph">现在、所有云提供商均可使用适用于Cloud Volumes ONTAP的9.12.1 P8修补程序。BlueXP将提示您将现有系统升级到此修补程序版本。</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">查看P8修补程序中已修复的错误列表</block>
+  <block id="256a78f661aac1037fd4538bac2c35e2" category="paragraph"><block ref="eeacaebd27be6cafb953a21f643315af" category="inline-link-macro-rx"></block> （需要登录 NetApp 支持站点）。</block>
 </blocks>
