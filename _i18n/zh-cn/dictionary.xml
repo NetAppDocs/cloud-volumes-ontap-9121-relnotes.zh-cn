@@ -733,4 +733,8 @@ HA对：18个、在一个节点中^1^</block>
   <block id="d5e02577f66b97067be75a9ef81d7c09" category="paragraph">现在、所有云提供商均可使用适用于Cloud Volumes ONTAP的9.12.1 P10修补程序。BlueXP将提示您将现有系统升级到此修补程序版本。</block>
   <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link-macro">查看P10修补程序中已修复的错误列表</block>
   <block id="606401dc75e0992ae91880346f992a16" category="paragraph"><block ref="1f37417b1f9cda079de9cdbac9ee9dcc" category="inline-link-macro-rx"></block> （需要登录 NetApp 支持站点）。</block>
+  <block id="161607a72f91d648d825781bf0291ba5" category="section-title">9.12.1 P12 (2024年5月22日)</block>
+  <block id="d88ef212113887bcfca294133a1db427" category="paragraph">现在、所有云提供商均可使用适用于Cloud Volumes ONTAP的9.12.1 P12修补程序。BlueXP将提示您将现有系统升级到此修补程序版本。</block>
+  <block id="8a1258bf37cf0340b92dd9f9ca39acfa" category="inline-link-macro">查看P12修补程序中已修复的错误列表</block>
+  <block id="7ef6e4c1566a900f1b5114723d75c692" category="paragraph"><block ref="288721c242a6d642b728b69617be73e7" category="inline-link-macro-rx"></block> （需要登录 NetApp 支持站点）。</block>
 </blocks>
